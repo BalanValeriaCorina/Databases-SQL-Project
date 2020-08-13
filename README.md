@@ -3,7 +3,11 @@
 <br />
 <br />
 
-
+![](https://user-images.githubusercontent.com/48416597/90182064-0b368780-ddba-11ea-9c75-6bf7163d47af.png)
+-solid underlined values are primary keys<br />
+-long dashed values are foreign keys
+<br />
+<br />
 
 As seen in the schema bellow a hotel is composed in general of seven departments. The housekeeping department is responsible for the immaculate care and the upkeep of all guestrooms and public spaces. In a competitive hotel market it is service and cleanliness that really make an impact on the guests and determine whether they will return.
 The engineering department is responsible in repairing and maintaining the plant and machinery water treatment and distribution, boilers, water heating, sewage treatment, external and common area lightning, etc.
